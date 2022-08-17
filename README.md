@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi 👋, I'm Camille Bouvat
 
-<!--
-**cbouvat/cbouvat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer in Toulouse 🇫🇷 since 14 years !
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚔️ Skills
+- **⌨️ Backend development**
+  - PHP, Laravel, MySQL, PostgreSQL.
+- **🖌 Frontend development**
+  - HTML 5, CSS 3, JavaScript, Bootstrap, Tailwind CSS, Sass, Gulp.
+- **👨‍🏫 Training**
+  - Animation and creation of HTML, CSS, PHP and Laravel training.
+ 
+## 💬 Get in touch
+- My website : https://cbouvat.com
