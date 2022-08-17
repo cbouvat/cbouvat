@@ -1,6 +1,6 @@
 # Hi 👋, I'm Camille Bouvat
 
-Web developer in Toulouse 🇫🇷 since 14 years !
+Web developer since 14 years in Toulouse 🇫🇷 !
 
 ## ⚔️ Skills
 - **⌨️ Backend development**
