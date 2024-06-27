@@ -4,13 +4,13 @@ I have been a Web developer since 2008, based in Toulouse 🇫🇷.
 
 ## Skills
 
-### Backend Development
-- PHP, Laravel, MariaDB, MySQL, PostgreSQL, Docker.
+- PHP with Laravel Framework.
+- Javacript with VueJS and Alpine.
+- Database with MariaDB, MySQL, SQlite & PostgreSQL
+- Container with Docker.
+- CSS vanilla and with Bootstrap, Tailwind CSS & Sass.
 
-### Frontend Development
-- HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Sass.
-
-### Training
+## Training
 - Conducting training sessions on HTML, CSS, PHP, and Laravel.
 
 ## Get in Touch
