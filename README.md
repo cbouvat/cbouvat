@@ -18,5 +18,4 @@ I'm a Web developer based in Toulouse 🇫🇷, with a passion for coding that d
 
 ## Get in Touch 📬
 - Visit my website: [cbouvat.com](https://cbouvat.com)
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/cbouvat/)
 - Follow me on [Mastodon](https://mastodon.social/@cbouvat)
